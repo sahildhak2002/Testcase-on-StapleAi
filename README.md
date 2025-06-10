@@ -1,8 +1,8 @@
 # Testcase-on-StapleAi
-🔍 Project Description: Manual Testing on Staple AI Website
+# Project Description: Manual Testing on Staple AI Website
 This project focuses on performing manual functional and UI testing of the Staple AI website. The objective was to verify core functionalities like form validation, navigation flow, login process, and UI alignment. The testing process included both positive and negative test cases to identify bugs and ensure the website meets usability and functionality standards.
 
-Key areas tested:
+# Key areas tested:
 
 Form Validation: The "Book a Demo" form accepted invalid mobile numbers and email addresses without any error message, which is a critical validation bug.
 
